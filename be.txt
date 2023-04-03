@@ -1,0 +1,7 @@
+Hello!/Szia!;hello,szia,hi,szeva,cső,csao,csá,hali,helloka;True
+Jól köszönöm!/Jól köszönöm, és Te?;hogy,vagy;False;hogy,vagy
+Ne szomorkodj, inkább hallgass egy kis zenét!;ma,szar,napom,volt;False;szar,napom
+Ajánlani tudom az Algo-ritmus zenekart;,milyen,zenét,ajánlj;False;zenét
+Tőled tanultam ;);okos,vagy;False;okos,vagy
+Sajnálom, hogy csalódtál bennem, még fejlesztés alatt vagyok;hülye,vagy;False;okos,vagy
+Sajnos, nem tudom megállapítani a helyzeted, de ha kitekintesz az ablakod saját szemeddel is láthadod! :);milyen,az,időjárás;False;milyen,időjárás
